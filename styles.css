@@ -1,0 +1,14 @@
+*{
+    background-color:aqua
+}
+#container{
+    height:auto;
+    width:auto;
+    margin:auto; 
+    text-align: center; 
+}
+#showTimer {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+  }
